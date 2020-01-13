@@ -1,4 +1,4 @@
-# Task Planner Project - Front End
+# 1.3 Task Planner Project - Front End
 
 1. Create a new React JS Project
 
