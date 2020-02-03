@@ -45,4 +45,4 @@
 
 7. Deploy your App to Heroku (https://dev.to/smithmanny/deploy-your-react-app-to-heroku-2b6f)
 
-8. Submit your github repo along with the url of your solution!
+8. Submit your github repo along with the heroku url of your solution!
