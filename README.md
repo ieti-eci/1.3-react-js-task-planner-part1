@@ -43,4 +43,6 @@
 
 6. Use what you just learned to make your App work offline.
 
-7. Deploy your App to Heroku and submit your github repo along with the url of your solution! (https://dev.to/smithmanny/deploy-your-react-app-to-heroku-2b6f)
+7. Deploy your App to Heroku (https://dev.to/smithmanny/deploy-your-react-app-to-heroku-2b6f)
+
+8. Submit your github repo along with the url of your solution!
