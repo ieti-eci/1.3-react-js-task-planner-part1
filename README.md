@@ -1,11 +1,20 @@
-# 1.3 Task Planner Project - Front End
+![](images/react-material-heroku.png)
 
-1. Create a new React JS Project
+<h1 align="center">1.3 Task Planner Project - Front End</h1>
+
+[![npm](https://img.shields.io/badge/npm-v6.13.4-red.svg)](https://www.npmjs.com/)
+[![npx](https://img.shields.io/badge/dependencies-npx-orange)](https://www.npmjs.com/package/npx)
+[![material](https://img.shields.io/badge/dependencies-material--ui-yellow)](https://material-ui.com/)
+[![react-router](https://img.shields.io/badge/dependencies-react--router-blue)](https://reacttraining.com/react-router/)
+[![heroku](https://img.shields.io/badge/%E2%86%91_Deploy_to-Heroku-7056bf.svg)](https://www.heroku.com/)
+
+
+1. Create a new React JS project.
 
     ```javascript
     npx create-react-app task-planner-app
     ```
-2. Creat the Login.js component and the CSS if needed (use Material-UI library!)
+2. Create the Login.js component and the CSS if needed (use Material-UI library!)
 
 ![](images/login.png)
 
@@ -30,6 +39,10 @@
 
 ![](images/main.png)
 
-5. Learn about service workers and Offline support: https://codelabs.developers.google.com/codelabs/offline/#0
-6. Use what you just learn to make your App work Offline
-7. Deploy your App to Heroky and submit your solution url! (https://dev.to/smithmanny/deploy-your-react-app-to-heroku-2b6f)
+5. Learn about service workers and offline support: https://codelabs.developers.google.com/codelabs/offline/#0
+
+6. Use what you just learned to make your App work offline.
+
+7. Deploy your App to Heroku (https://dev.to/smithmanny/deploy-your-react-app-to-heroku-2b6f)
+
+8. Submit your github repo along with the heroku url of your solution!
