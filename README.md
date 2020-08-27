@@ -45,4 +45,6 @@
 
 7. Deploy your App to Heroku (https://dev.to/smithmanny/deploy-your-react-app-to-heroku-2b6f)
 
-8. Submit your github repo along with the heroku url of your solution!
+8. Deploy your App as an Azure Webapp (https://devblogs.microsoft.com/premier-developer/deploying-react-apps-to-azure-with-azure-devops/)
+
+9. Submit your github repo along with the heroku and azure url of your solution!
